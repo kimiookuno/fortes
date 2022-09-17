@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/09/15 22:36:56.000.382,=C:\Users\kokun\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/09/15 22:39:13.000.232,C:\Users\kokun\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm=D:\Fortes\u_principal.dfm</Transaction>
+    <Transaction>2022/09/15 22:39:13.000.232,C:\Users\kokun\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas=D:\Fortes\u_principal.pas</Transaction>
+    <Transaction>2022/09/15 22:52:56.000.789,C:\Users\kokun\OneDrive\Documentos\Embarcadero\Studio\Projects\Project2.dproj=D:\Fortes\PostoABC.dproj</Transaction>
+    <Transaction>2022/09/16 14:49:45.000.848,=D:\Fortes\Unit1.pas</Transaction>
+    <Transaction>2022/09/16 14:53:02.000.497,=D:\Fortes\Unit1.pas</Transaction>
+    <Transaction>2022/09/16 15:08:18.000.770,D:\Fortes\Unit1.dfm=D:\Fortes\u_relatorio.dfm</Transaction>
+    <Transaction>2022/09/16 15:08:18.000.770,D:\Fortes\Unit1.pas=D:\Fortes\u_relatorio.pas</Transaction>
+    <Transaction>2022/09/17 09:50:56.429,=D:\Fortes\Unit1.pas</Transaction>
+    <Transaction>2022/09/17 09:55:58.439,D:\Fortes\u_relatorioperiodo.pas=D:\Fortes\Unit1.pas</Transaction>
+    <Transaction>2022/09/17 09:55:58.439,D:\Fortes\u_relatorioperiodo.dfm=D:\Fortes\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
